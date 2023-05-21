@@ -1,4 +1,4 @@
-## O site da Burguer Kenzie foi construído com HTML, CSS e Typescript, usando a biblioteca ReactJS para criar componentes reutilizáveis e manter o código organizado. O Styled-Components foi utilizado para estilizar os componentes do site, permitindo que eles sejam facilmente customizados e atualizados.
+## O site da Burguer Kenzie foi construído com Typescript, usando a biblioteca ReactJS para criar componentes reutilizáveis e manter o código organizado. O Styled-Components foi utilizado para estilizar os componentes do site, permitindo que eles sejam facilmente customizados e atualizados.
 
 ## Para garantir que o site seja intuitivo e fácil de usar, o Toastify foi utilizado para exibir notificações de sucesso e erro após as ações do usuário. Além disso, o React-Router-DOM foi usado para criar rotas dinâmicas e facilitar a navegação dos usuários pelo site.
 
