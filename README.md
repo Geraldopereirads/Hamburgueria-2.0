@@ -1,10 +1,44 @@
-## O site da Burguer Kenzie foi construído com Typescript, usando a biblioteca ReactJS para criar componentes reutilizáveis e manter o código organizado. O Styled-Components foi utilizado para estilizar os componentes do site, permitindo que eles sejam facilmente customizados e atualizados.
+Aplicação web de uma hamburgueria fictícia com funcionalidades completas de login, cadastro, listagem de produtos e carrinho de compras. Desenvolvida com **React + TypeScript**, seguindo boas práticas e estruturação com Context API.
 
-## Para garantir que o site seja intuitivo e fácil de usar, o Toastify foi utilizado para exibir notificações de sucesso e erro após as ações do usuário. Além disso, o React-Router-DOM foi usado para criar rotas dinâmicas e facilitar a navegação dos usuários pelo site.
+---
 
-## Para se comunicar com a API do backend, a BurguerKenzie utiliza o Axios, uma biblioteca que faz requisições HTTP de forma assíncrona e simplifica a integração com o backend. Para validar os dados enviados pelo usuário, o Yup foi utilizado para garantir que apenas dados válidos sejam enviados ao servidor.
+## 🚀 Tecnologias Utilizadas
 
-## Por fim, os Hooks do ReactJS foram usados para gerenciar o estado da aplicação, tornando-a mais rápida e responsiva. Com a BurguerKenzie, você pode personalizar seu hambúrguer do jeito que quiser e receber em casa, tudo isso com uma experiência de usuário moderna e tecnológica.
+- **React**
+- **TypeScript**
+- **React Router DOM v6**
+- **React Hook Form**
+- **Yup**
+- **Axios**
+- **Styled-components**
+- **React Toastify**
+- **React Icons**
+
+---
+
+## ✅ Funcionalidades
+
+- Cadastro e login de usuários com validação de formulário
+- Autenticação com token e persistência no localStorage
+- Autologin ao recarregar a página
+- Proteção de rotas (usuário não autenticado é redirecionado)
+- Listagem de produtos consumindo API externa
+- Adição e remoção de produtos no carrinho
+- Cálculo automático do total no carrinho
+- Context API separando responsabilidades (`UserContext` e `CartContext`)
+- Feedbacks de erro e sucesso com React Toastify
+- Navegação entre páginas com React Router
+- Estilização responsiva com styled-components
+
+---
+
+## 📦 Instalação de Dependências
+
+### Dependências principais
+
+```bash
+npm install
+````
 
 Link Vercel: https://kenzie-burguer-v2-eta.vercel.app/shop
 
