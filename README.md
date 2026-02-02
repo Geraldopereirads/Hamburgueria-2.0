@@ -2,7 +2,7 @@ Aplicação web de uma hamburgueria fictícia com funcionalidades completas de l
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **React**
 - **TypeScript**
@@ -16,7 +16,7 @@ Aplicação web de uma hamburgueria fictícia com funcionalidades completas de l
 
 ---
 
-## ✅ Funcionalidades
+##  Funcionalidades
 
 - Cadastro e login de usuários com validação de formulário
 - Autenticação com token e persistência no localStorage
@@ -32,7 +32,7 @@ Aplicação web de uma hamburgueria fictícia com funcionalidades completas de l
 
 ---
 
-## 📦 Instalação de Dependências
+##  Instalação de Dependências
 
 ### Dependências principais
 
