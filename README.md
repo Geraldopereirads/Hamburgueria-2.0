@@ -39,9 +39,6 @@ Aplicação web de uma hamburgueria fictícia com funcionalidades completas de l
 ```bash
 npm install
 ````
-
-Link Vercel: https://kenzie-burguer-v2-eta.vercel.app/shop
-
 ![Login](https://user-images.githubusercontent.com/110185110/223713085-723b0c64-18f6-4140-89c4-77679d70444a.PNG)
 ![Cadastro](https://user-images.githubusercontent.com/110185110/223713118-0ec1b402-5a30-4c8b-a318-120fa09b0bb6.PNG)
 ![Dashboard](https://user-images.githubusercontent.com/110185110/223713140-8b9aa124-10fd-4b62-84a7-569195ecd4bc.PNG)
